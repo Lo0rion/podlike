@@ -1,5 +1,0 @@
-Try this first:
-Double-click rmoffice-<version>.jar
-
-If you get an error:
-see readme.html (Chapter 1 / Launch)
